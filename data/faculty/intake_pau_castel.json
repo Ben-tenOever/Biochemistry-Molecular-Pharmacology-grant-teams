@@ -1,0 +1,23 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_pau_castel",
+  "name": "Pau Castel",
+  "name_canonical": "Pau Castel",
+  "title": "Assistant Professor",
+  "affiliations": [
+    "Biochemistry and Molecular Pharmacology"
+  ],
+  "affiliations_raw": "Biochemistry and Molecular Pharmacology",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "The Castel laboratory is interested in understanding the molecular mechanisms underlying oncoprotein-mediated transformation. Our laboratory uses biochemical, cell signaling, mouse modeling, and pharmacological approaches to elucidate the functions and regulation of different oncoproteins in cancer and congenital disorders. We are particularly interested in the RAS family of GTPases, which are involved in mitogenic signaling and are notorious drivers of cancer and neurodevelopmental syndromes.  More specifically, the current projects in our laboratory include:   1. Study of RAS protein effectors and their contribution to disease.   2. Regulation of RAS signaling components by ubiquitination and proteasomal degradation.   3. Development of cellular and mouse models that recapitulate RAS-driven diseases.   Overall, our research program will provide novel mechanistic insights into the complex process of transformation and is aimed at identifying and developing novel therapeutic strategies for cancer and congenital disorders.",
+  "common_experiments_raw": "- Immunoblot\n- Immunoprecipitation\n- Pull down with recombinant proteins\n- Tissue culture\n- Molecular Cloning\n- CRISPR/Cas9 knockout\n- shRNA knockdown\n- Gene overexpression\n- Genetically-engineered mouse models\n- Histology and IHC\n- Recombinant protein production\n- In vitro ubiquitination assays\n- Gene expression analysis",
+  "research_keywords": [],
+  "experimental_capabilities": [],
+  "model_systems": [],
+  "focus_groups": [],
+  "publications": [],
+  "id": "intake_pau_castel",
+  "department_site": "Biochemistry and Molecular Pharmacology",
+  "keywords": [],
+  "summary": "The Castel laboratory is interested in understanding the molecular mechanisms underlying oncoprotein-mediated transformation. Our laboratory uses biochemical, cell signaling, mouse modeling, and pharmacological approaches to elucidate the functions and regulation of different oncoproteins in cancer and congenital disorders. We are particularly interested in the RAS family of GTPases, which are involved in mitogenic signaling and are notorious drivers of cancer and neurodevelopmental syndromes.  More specifically, the current projects in our laboratory include:   1. Study of RAS protein effectors and their contribution to disease.   2. Regulation of RAS signaling components by ubiquitination and proteasomal degradation.   3. Development of cellular and mouse models that recapitulate RAS-driven diseases.   Overall, our research program will provide novel mechanistic insights into the complex process of transformation and is aimed at identifying and developing novel therapeutic strategies for cancer and congenital disorders."
+}

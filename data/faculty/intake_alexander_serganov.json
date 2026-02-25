@@ -1,0 +1,23 @@
+{
+  "source": "intake_form",
+  "faculty_id": "intake_alexander_serganov",
+  "name": "Alexander Serganov",
+  "name_canonical": "Alexander Serganov",
+  "title": "Principal Investigator",
+  "affiliations": [
+    "Biochemistry and Molecular Pharmacology"
+  ],
+  "affiliations_raw": "Biochemistry and Molecular Pharmacology",
+  "affiliations_unmapped": [],
+  "lab_synopsis": "We use a combination of biophysical methods, biochemical techniques, and structural approaches, including X-ray crystallography and cryo-electron microscopy, to elucidate molecular mechanisms of fundamental cellular processes associated with biosynthesis of RNA, metabolism of RNA, and RNA-mediated gene expression control. We study Fragile X syndrome and antibiotic resistance. We design small molecule drugs to target proteins.",
+  "common_experiments_raw": "X-ray crystallography, cryo-EM, biochemical assays, drug design",
+  "research_keywords": [],
+  "experimental_capabilities": [],
+  "model_systems": [],
+  "focus_groups": [],
+  "publications": [],
+  "id": "intake_alexander_serganov",
+  "department_site": "Biochemistry and Molecular Pharmacology",
+  "keywords": [],
+  "summary": "We use a combination of biophysical methods, biochemical techniques, and structural approaches, including X-ray crystallography and cryo-electron microscopy, to elucidate molecular mechanisms of fundamental cellular processes associated with biosynthesis of RNA, metabolism of RNA, and RNA-mediated gene expression control. We study Fragile X syndrome and antibiotic resistance. We design small molecule drugs to target proteins."
+}
