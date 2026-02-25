@@ -1,0 +1,3 @@
+id,name,title,affiliation,keywords,summary,homepage
+jane_doe,Jane Doe,Professor,Example Dept,"RNA;immunity;genomics","One sentence summary of the lab.","https://example.edu"
+john_smith,John Smith,Associate Professor,Example Dept,"cancer;translation;signaling","One sentence summary of the lab.","https://example.edu"
