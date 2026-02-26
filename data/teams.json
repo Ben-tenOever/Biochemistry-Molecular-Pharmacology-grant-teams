@@ -1,3 +1,318 @@
-pbpaste > data/teams.json
-wc -c data/teams.json
-python3 -c 'import json; d=json.load(open("data/teams.json")); print("OK entries:", len(d))'
+[
+  {
+    "team_type": "pair",
+    "team_name": "EBMS Multimodal Biomarker Systems Pair",
+    "opportunity_id": 348796,
+    "opportunity_number": "PD-23-5345",
+    "opportunity_title": "Engineering of Biomedical Systems",
+    "members": ["Drew Jones", "David Fenyo"],
+    "rationale": "EBMS prioritizes engineering frameworks and validated tools that advance biomedical science. Jones brings high-throughput LC-MS and metabolomics platform innovation, while Fenyo contributes rigorous statistical and machine-learning integration across multi-omics and imaging. Together they can build an engineered measurement-plus-modeling system that yields mechanistic insight and validated biomarkers rather than a single device optimization.",
+    "suggested_specific_aim": "Engineer and validate an integrated measurement and modeling workflow that links LC-MS metabolomics with multi-omics integration to quantify pathophysiology and predict response to defined perturbations.",
+    "next_steps": [
+      "Select one biomedical system and define measurable physiological or pathophysiological endpoints",
+      "Specify engineering metrics: model calibration, uncertainty, reproducibility, and validation plan",
+      "Contact the EBMS program director to confirm fit and positioning within program scope"
+    ],
+    "confidence": 0.86
+  },
+  {
+    "team_type": "pair",
+    "team_name": "EBMS Predictive Genomic Modeling Pair",
+    "opportunity_id": 348796,
+    "opportunity_number": "PD-23-5345",
+    "opportunity_title": "Engineering of Biomedical Systems",
+    "members": ["Nadav Brandes", "David Fenyo"],
+    "rationale": "EBMS supports quantitative modeling to understand and control living systems. Brandes brings foundation-model approaches for sequence and mutation effect prediction, while Fenyo provides multimodal data integration and statistical validation. This pair can propose an engineering-first predictive physiology platform with credible evaluation and uncertainty quantification tied to experimentally grounded readouts.",
+    "suggested_specific_aim": "Develop a validated predictive modeling framework that integrates sequence-derived priors with multimodal omics measurements to forecast biological state transitions under perturbation.",
+    "next_steps": [
+      "Define a narrow, testable prediction task and the datasets needed for training and evaluation",
+      "Specify uncertainty quantification and robustness testing for out-of-distribution conditions",
+      "Draft a one-page concept emphasizing engineering novelty and biomedical science advancement"
+    ],
+    "confidence": 0.79
+  },
+  {
+    "team_type": "pair",
+    "team_name": "EBMS Proteostasis Signaling Control Pair",
+    "opportunity_id": 348796,
+    "opportunity_number": "PD-23-5345",
+    "opportunity_title": "Engineering of Biomedical Systems",
+    "members": ["Michele Pagano", "Pau Castel"],
+    "rationale": "EBMS welcomes engineered tools and models that improve understanding of disease processes. Pagano provides deep mechanistic expertise in ubiquitin-mediated proteolysis and cell-cycle control, and Castel provides complementary mechanistic signaling expertise centered on RAS-driven transformation. Together they can frame an engineering-driven perturbation and quantitative modeling strategy to identify controllable nodes in oncogenic network regulation.",
+    "suggested_specific_aim": "Engineer and validate a quantitative perturbation-plus-modeling framework to map how ubiquitin ligase control shapes RAS signaling states and therapeutic vulnerabilities.",
+    "next_steps": [
+      "Choose a tractable RAS-driven model system and define measurable network-state readouts",
+      "Design orthogonal perturbations spanning signaling and UPS control with clear success criteria",
+      "Confirm EBMS fit by emphasizing engineered frameworks and validated models over device-only work"
+    ],
+    "confidence": 0.77
+  },
+  {
+    "team_type": "pair",
+    "team_name": "EBMS RNA Structure and Stress Signaling Pair",
+    "opportunity_id": 348796,
+    "opportunity_number": "PD-23-5345",
+    "opportunity_title": "Engineering of Biomedical Systems",
+    "members": ["Alexander Serganov", "Paolo Mita"],
+    "rationale": "EBMS includes tool and model development to understand pathophysiology and immune-related challenges. Serganov contributes RNA structural biology and mechanism-focused biophysics, while Mita contributes transposable element biology linked to DNA damage and innate sensing. Together they can engineer assays and predictive models that connect RNA structural states and TE activity to measurable cellular stress and sensing outputs.",
+    "suggested_specific_aim": "Develop structure-guided assays and quantitative models to predict how RNA structural features and LINE-1 activity modulate cellular stress and innate immune sensing pathways.",
+    "next_steps": [
+      "Define specific structural targets and measurable cellular outputs for validation",
+      "Specify an engineering framework: perturb, model, predict, and experimentally test",
+      "Engage the EBMS program director to ensure scope and claims align with program expectations"
+    ],
+    "confidence": 0.64
+  },
+  {
+    "team_type": "team",
+    "team_name": "EBMS Multimodal Digital Physiology Team",
+    "opportunity_id": 348796,
+    "opportunity_number": "PD-23-5345",
+    "opportunity_title": "Engineering of Biomedical Systems",
+    "members": ["Drew Jones", "David Fenyo", "Nadav Brandes"],
+    "rationale": "This team can deliver an engineered pipeline that couples high-throughput biochemical measurement with rigorous multimodal modeling. Jones supplies measurement innovation in metabolomics, Fenyo supplies statistical integration and validation across modalities, and Brandes supplies foundation-model style predictors to connect sequences and molecular state to phenotype. The deliverable aligns with EBMS emphasis on validated models and engineering frameworks that advance biomedical science.",
+    "suggested_specific_aim": "Build and validate an integrated measurement-plus-modeling system that predicts biological state transitions from metabolomic and multi-omic inputs in a defined disease model.",
+    "next_steps": [
+      "Select a single biomedical use case and predefine perturbations and endpoints",
+      "Specify validation: prospective prediction, perturbation response, and uncertainty quantification",
+      "Map milestones to both engineering advances and biomedical science discoveries"
+    ],
+    "confidence": 0.86
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "FDT BioTech Digital Twin Foundations Pair",
+    "opportunity_id": 353135,
+    "opportunity_number": "24-561",
+    "opportunity_title": "Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation",
+    "members": ["Nadav Brandes", "David Fenyo"],
+    "rationale": "This program focuses on mathematical and engineering foundations for digital twins and synthetic humans in biomedical applications. Brandes contributes foundation modeling for sequence and variant-effect prediction, while Fenyo contributes multimodal integration and evaluation with statistical grounding. Together they can build methods with credible assessment, uncertainty quantification, and benchmarked performance consistent with program priorities.",
+    "suggested_specific_aim": "Develop foundational methods for multimodal biomedical digital twins that integrate sequence variation and omics state with calibrated uncertainty and prospective validation.",
+    "next_steps": [
+      "Define the digital twin scope, inputs, outputs, and evaluation protocol for credibility",
+      "Plan synthetic data generation strategies tied to biological constraints and real measurements",
+      "Draft a methods-focused narrative emphasizing foundational algorithms and assessment"
+    ],
+    "confidence": 0.9
+  },
+  {
+    "team_type": "team",
+    "team_name": "FDT BioTech Multimodal Twin Foundations Team",
+    "opportunity_id": 353135,
+    "opportunity_number": "24-561",
+    "opportunity_title": "Foundations for Digital Twins as Catalyzers of Biomedical Technological Innovation",
+    "members": ["Nadav Brandes", "David Fenyo", "Drew Jones"],
+    "rationale": "This team directly targets the program's interdisciplinary foundation goals. Brandes supplies foundation modeling, Fenyo supplies rigorous multimodal integration and evaluation, and Jones supplies high-throughput biochemical measurement to ground and benchmark models. The deliverable can be a benchmarked, measurement-anchored digital twin toolkit with credible assessment protocols.",
+    "suggested_specific_aim": "Build a benchmarked multimodal digital twin framework that predicts biomedical state transitions and supports credible assessment using experimentally grounded metabolomics and omics measurements.",
+    "next_steps": [
+      "Define a narrow twin scope and a standardized evaluation protocol with calibration metrics",
+      "Design synthetic data strategies and benchmarks that expose failure modes",
+      "Plan pilot experiments that provide ground truth for prospective validation"
+    ],
+    "confidence": 0.9
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "Biosensing Adaptive Analytics Pair",
+    "opportunity_id": 320536,
+    "opportunity_number": "PD-20-7909",
+    "opportunity_title": "Biosensing",
+    "members": ["Nadav Brandes", "David Fenyo"],
+    "rationale": "The solicitation encourages combining biosensors with AI to improve specificity and response time. Brandes brings modern ML and benchmarking discipline, while Fenyo brings statistical modeling and multi-omics integration with rigorous validation. This pairing can focus on adaptive and multiplex sensing inference with calibrated uncertainty and controlled false discovery.",
+    "suggested_specific_aim": "Develop AI and statistical methods for adaptive multiplex biosensing that improve specificity and provide calibrated uncertainty in real time.",
+    "next_steps": [
+      "Define a sensor modality and data streams to support method development and benchmarking",
+      "Specify evaluation metrics: false discovery, robustness to drift, and response latency",
+      "Plan a minimal experimental validation using realistic sensing datasets and controls"
+    ],
+    "confidence": 0.75
+  },
+  {
+    "team_type": "team",
+    "team_name": "Biosensing Multimodal Detection and AI Team",
+    "opportunity_id": 320536,
+    "opportunity_number": "PD-20-7909",
+    "opportunity_title": "Biosensing",
+    "members": ["Alexander Serganov", "Drew Jones", "David Fenyo", "Nadav Brandes"],
+    "rationale": "This team spans biorecognition, quantitative measurement, and AI-driven inference, aligning with emphasis on adaptive and multiplex sensing and improved specificity. Serganov supports molecular recognition design, Jones supports measurement technology, and Fenyo plus Brandes provide robust inference and benchmarking. The project can emphasize rapid reconfiguration for new targets and rigorous performance evaluation.",
+    "suggested_specific_aim": "Develop an adaptable multiplex biosensing platform with structure-informed recognition and AI-based inference that improves specificity and response time across diverse biological targets.",
+    "next_steps": [
+      "Select sensing platform and a staged set of demonstration targets to prove adaptability",
+      "Define quantitative performance metrics and a benchmarking and validation plan",
+      "Engage the program director to ensure balance of sensing innovation and biological validation"
+    ],
+    "confidence": 0.74
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "EPCN Networked Biomedical Control Pair",
+    "opportunity_id": 348258,
+    "opportunity_number": "PD-18-7607",
+    "opportunity_title": "Energy, Power, Control, and Networks",
+    "members": ["Nadav Brandes", "David Fenyo"],
+    "rationale": "EPCN includes biomedical systems and emphasizes learning, optimization, and control of networked systems under uncertainty. Brandes and Fenyo can contribute novel learning and decision algorithms for complex biomedical sensing and control loops, with biomedical use cases motivating method development. The proposal must foreground control and network methodology rather than application only.",
+    "suggested_specific_aim": "Develop robust learning and decision algorithms for networked biomedical cyber-physical systems, with uncertainty-aware control validated on realistic sensing data.",
+    "next_steps": [
+      "Define a networked system and control objective relevant to biomedical monitoring or devices",
+      "Specify algorithmic novelty, theoretical analysis, and benchmarking plan",
+      "Contact EPCN program staff to confirm fit and preferred framing"
+    ],
+    "confidence": 0.46
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "BMMB Senescence Mechanics Pair",
+    "opportunity_id": 306171,
+    "opportunity_number": "PD-19-7479",
+    "opportunity_title": "Biomechanics and Mechanobiology",
+    "members": ["Gregory David", "Michele Pagano"],
+    "rationale": "BMMB requires a clear mechanics component coupled to biological mechanisms. David and Pagano can anchor a mechanistic program linking stress-induced senescence and proteostasis to mechanically driven cell-state changes, but the project must explicitly quantify mechanical variables and causal influence. This pairing can support a mechanobiology-focused project if a central mechanical manipulation and modeling plan is defined.",
+    "suggested_specific_aim": "Quantify how controlled mechanical stress inputs reshape proteostasis and senescence programs, linking measurable forces to cell-cycle arrest and inflammatory outputs.",
+    "next_steps": [
+      "Select a mechanics platform with controllable forces and measurable mechanical readouts",
+      "Define causal perturbations and mechanistic endpoints in UPS and senescence pathways",
+      "Consult the BMMB program director to ensure the mechanics content is central"
+    ],
+    "confidence": 0.5
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "CCSS Sensing Inference Pair",
+    "opportunity_id": 346204,
+    "opportunity_number": "PD-18-7564",
+    "opportunity_title": "Communications, Circuits, and Sensing-Systems",
+    "members": ["Nadav Brandes", "David Fenyo"],
+    "rationale": "CCSS supports sensing systems and signal processing with dynamic, data-enabled learning and emphasizes AI for sensing. Brandes and Fenyo can propose new inference and learning methods for sensing streams with calibrated uncertainty and improved robustness, framed in a biological sensing context. The project should emphasize systems and signal processing innovation with credible benchmarking.",
+    "suggested_specific_aim": "Develop signal inference and machine learning methods that improve specificity and robustness in dynamic biosensing systems with calibrated uncertainty quantification.",
+    "next_steps": [
+      "Define sensing data types and system constraints that motivate the algorithm design",
+      "Specify benchmarking metrics and comparisons to existing signal processing baselines",
+      "Consult CCSS program directors to confirm fit and the appropriate sub-area"
+    ],
+    "confidence": 0.52
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "SoS DCI Science Metrics Pair",
+    "opportunity_id": 358882,
+    "opportunity_number": "PD-19-126Y",
+    "opportunity_title": "Science of Science: Discovery, Communication and Impact",
+    "members": ["David Fenyo", "Nadav Brandes"],
+    "rationale": "SoS:DCI focuses on rigorous empirical methods, models, and data that improve understanding of scientific discovery and impact. Fenyo brings multimodal modeling and integration and Brandes brings modern AI methods and benchmarking. Together they can develop credible indicators and predictive models of discovery and collaboration, with strong attention to evaluation and open-science data practices.",
+    "suggested_specific_aim": "Develop and validate quantitative indicators and predictive models of scientific discovery and impact using funding, publication, and collaboration datasets with rigorous benchmarking and uncertainty analysis.",
+    "next_steps": [
+      "Define a specific science-of-science research question and testable hypotheses",
+      "Identify datasets and a reproducible analysis plan with open-science deliverables",
+      "Align broader impacts to evidence-based policy and improved scientific practice"
+    ],
+    "confidence": 0.62
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "CBE Quantitative Cell Process Pair",
+    "opportunity_id": 348794,
+    "opportunity_number": "PD-23-1491",
+    "opportunity_title": "Cellular and Biochemical Engineering",
+    "members": ["Michele Pagano", "Pau Castel"],
+    "rationale": "CBE emphasizes quantitative understanding of cellular and biomolecular processes and encourages innovative engineering approaches. Pagano and Castel provide complementary mechanistic expertise in proteostasis, cell-cycle regulation, and RAS signaling that can be framed as engineerable cellular circuits.",
+    "suggested_specific_aim": "Engineer and model controllable perturbation strategies to quantify and modulate RAS-driven signaling and ubiquitin-mediated proteostasis as cellular biochemical processes.",
+    "next_steps": [
+      "Define a precise cellular process and measurable outputs for quantitative engineering",
+      "Design perturbation and modeling workflow with clear success metrics",
+      "Confirm CBE versus EBMS fit by emphasizing cellular biochemical process engineering"
+    ],
+    "confidence": 0.84
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "DARE Rehab Monitoring Analytics Pair",
+    "opportunity_id": 348795,
+    "opportunity_number": "PD-23-5342",
+    "opportunity_title": "Disability and Rehabilitation Engineering",
+    "members": ["Nadav Brandes", "David Fenyo"],
+    "rationale": "DARE emphasizes transformative engineering methodologies and includes theoretical and computational methods. Brandes and Fenyo can propose robust inference and adaptive modeling methods for rehabilitation monitoring and assistive systems, focusing on algorithmic contributions and rigorous evaluation rather than clinical trial framing.",
+    "suggested_specific_aim": "Develop uncertainty-aware machine learning and inference methods for personalized rehabilitation monitoring and adaptive assistance, validated on realistic multimodal datasets.",
+    "next_steps": [
+      "Select a specific disability or injury context and define measurable functional endpoints",
+      "Specify benchmarking datasets, performance metrics, and robustness testing strategy",
+      "Confirm alignment with DARE scope with the program director"
+    ],
+    "confidence": 0.44
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "Biophotonics Computational Imaging Pair",
+    "opportunity_id": 347327,
+    "opportunity_number": "PD-23-7236",
+    "opportunity_title": "Biophotonics",
+    "members": ["David Fenyo", "Nadav Brandes"],
+    "rationale": "Biophotonics supports methods that push limits of detection and identification. Fenyo provides quantitative imaging integration, and Brandes provides ML with benchmarking and uncertainty quantification. This pairing can propose computational methods that enhance multiplex imaging specificity and resolution for pathological state identification.",
+    "suggested_specific_aim": "Develop machine-learning and statistical methods that enhance multiplex biophotonic imaging specificity and resolution with calibrated uncertainty.",
+    "next_steps": [
+      "Choose an imaging modality and a clear biological classification problem",
+      "Define datasets and ground-truth validation assays to assess performance",
+      "Ensure the project emphasizes biophotonics-relevant innovation"
+    ],
+    "confidence": 0.72
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "DMS NIGMS Quantitative Methods Pair",
+    "opportunity_id": 340828,
+    "opportunity_number": "22-600",
+    "opportunity_title": "Joint DMS/NIGMS Initiative to Support Research at the Interface of the Biological and Mathematical Sciences",
+    "members": ["Nadav Brandes", "David Fenyo"],
+    "rationale": "This initiative funds mathematics and statistics research that addresses biological questions. Brandes brings advanced modeling and benchmarking in genomic AI, and Fenyo brings statistical rigor and multimodal integration. This pairing can deliver methods with a clear mathematical spine and credible validation on biomedical datasets.",
+    "suggested_specific_aim": "Develop new statistical and machine-learning foundations for multimodal biological data integration with calibrated uncertainty and interpretable effect estimates.",
+    "next_steps": [
+      "Define the core mathematical contributions and how they extend the state of the art",
+      "Choose a biological application with clear validation datasets and testable predictions",
+      "Select Track 1 or Track 2 and align scope and milestones to budget and duration"
+    ],
+    "confidence": 0.86
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "Thermal AI Metrology Pair",
+    "opportunity_id": 347324,
+    "opportunity_number": "PD-23-1406",
+    "opportunity_title": "Thermal Transport Processes",
+    "members": ["Nadav Brandes", "David Fenyo"],
+    "rationale": "Thermal Transport Processes includes interest in new metrology and AI and machine learning methodologies in thermal sciences, and also references biomedical heat and mass transport contexts. Brandes and Fenyo can contribute algorithmic and statistical foundations for AI-assisted thermal measurement inference and uncertainty calibration, but this is a weaker fit unless paired to a clear thermal transport measurement problem and domain collaborators.",
+    "suggested_specific_aim": "Develop AI and statistical methods for high-resolution thermal metrology and uncertainty-calibrated inference in thermal transport experiments relevant to biological heat and mass transport.",
+    "next_steps": [
+      "Identify a concrete thermal measurement modality and benchmark dataset to anchor method development",
+      "Define physics-informed constraints and uncertainty calibration strategy",
+      "Discuss fit with the program director and consider adding a thermal-transport domain collaborator"
+    ],
+    "confidence": 0.35
+  },
+
+  {
+    "team_type": "pair",
+    "team_name": "Plasma Diagnostics Data Methods Pair",
+    "opportunity_id": 350018,
+    "opportunity_number": "PD-23-1242",
+    "opportunity_title": "Plasma Physics",
+    "members": ["David Fenyo", "Nadav Brandes"],
+    "rationale": "This opportunity is primarily aimed at fundamental plasma physics. A potential angle is data-intensive methods and uncertainty-aware inference for plasma diagnostics, but this is likely a low-fit opportunity for this department without strong plasma-physics domain collaborators and a clear physics-driven question.",
+    "suggested_specific_aim": "Develop robust, uncertainty-calibrated machine-learning and statistical methods for analyzing plasma diagnostic datasets, in close partnership with plasma-physics domain investigators.",
+    "next_steps": [
+      "Only pursue if you have a committed plasma-physics collaborator and a physics-first hypothesis",
+      "Define a diagnostic dataset and benchmarking protocol for method evaluation",
+      "Confirm relevance with the Plasma Physics program staff before investing effort"
+    ],
+    "confidence": 0.15
+  }
+]
