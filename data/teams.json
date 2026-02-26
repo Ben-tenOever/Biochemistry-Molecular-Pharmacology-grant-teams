@@ -1,1 +1,3 @@
-[]
+pbpaste > data/teams.json
+wc -c data/teams.json
+python3 -c 'import json; d=json.load(open("data/teams.json")); print("OK entries:", len(d))'
