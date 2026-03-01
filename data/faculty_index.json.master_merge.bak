@@ -12,7 +12,39 @@
     "affiliations": [
       "Biochemistry and Molecular Pharmacology"
     ],
-    "common_experiments_raw": "X-ray crystallography, cryo-EM, biochemical assays, drug design"
+    "common_experiments_raw": "X-ray crystallography, cryo-EM, biochemical assays, drug design",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Serganov, Alexander/3560.full_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Serganov, Alexander/Ashok_ApaH_paper_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Serganov, Alexander/Shatalin_all published_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Serganov, Alexander/s41589-025-02044-6_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Serganov, Alexander/s41594-023-00948-2_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_david_fenyo",
@@ -119,6 +151,36 @@
           "endometrial carcinoma",
           "biomarkers"
         ]
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Fenyo, David/1-s2.0-S1535610823002477-main_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Fenyo, David/1-s2.0-S2666379123003269-main_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Fenyo, David/2025.07.18.665587v1.full_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Fenyo, David/2025.10.03.680361.full_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/ISG/Fenyo, David/s41551-025-01348-1_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
       }
     ],
     "common_experiments_raw": "Computational analysis of omics and imaging data",
@@ -144,7 +206,39 @@
     "affiliations": [
       "Biochemistry and Molecular Pharmacology"
     ],
-    "common_experiments_raw": "Mass spectrometry, metabolomics, enzyme inhibition, metabolic fate, isotope tracing, flux, targeted quantification"
+    "common_experiments_raw": "Mass spectrometry, metabolomics, enzyme inhibition, metabolic fate, isotope tracing, flux, targeted quantification",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Jones, Drew/PIIS193131282500232X_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Jones, Drew/s41586-025-08996-y_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Jones, Drew/s43018-023-00647-3_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Jones, Drew/sciadv.adj4387_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Jones, Drew/viruses-15-00242-v2_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_gregory_david",
@@ -159,7 +253,39 @@
     "affiliations": [
       "Biochemistry and Molecular Pharmacology"
     ],
-    "common_experiments_raw": "CRISPR based genetic manipulation of cancer cells\nRNAseq\nscRNAseq\nsenescence induction\nmouse models of cancer"
+    "common_experiments_raw": "CRISPR based genetic manipulation of cancer cells\nRNAseq\nscRNAseq\nsenescence induction\nmouse models of cancer",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/David, Gregory/1-s2.0-S0959437X22000235-main_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/David, Gregory/MCB.00586-18_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/David, Gregory/s13072-024-00526-w_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/David, Gregory/s41388-022-02433-4_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/David, Gregory/s41556-019-0287-4_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_michele_pagano",
@@ -174,7 +300,39 @@
     "affiliations": [
       "Biochemistry and Molecular Pharmacology"
     ],
-    "common_experiments_raw": "Cell culture and cell transfection\n\nVirus-mediated gene transfer\n\nCell synchronization\n\nImmunoprecipitation (IP), immunoblotting (IB) and fractionation\n\nImmunofluorescence (IF) microscopy\n\nSite-specific ROS and DSB induction\n\nProximity labeling (TurboID)\n\nMass spectrometry \n\nMass spectrometry data analysis \n\nLaser induced DNA damage and Live-Cell Imaging\n\nImage analysis and protein recruitment to DNA lesions\n\nAntibodies production \n\nCRISPR–Cas9 genome editing\n\nComet assay\n\nDNA repair synthesis assay (AKA unscheduled DNA synthesis assay)\n\nSingle-stranded DNA (ssDNA) staining\n\nFluorescence-based multiplex host cell reactivation assay (FM-HCR) \n\nMutagenesis frequency measurement \n\nMicrosatellite stability assays\n\nStatistical Analysis\n\nqRT-PCR"
+    "common_experiments_raw": "Cell culture and cell transfection\n\nVirus-mediated gene transfer\n\nCell synchronization\n\nImmunoprecipitation (IP), immunoblotting (IB) and fractionation\n\nImmunofluorescence (IF) microscopy\n\nSite-specific ROS and DSB induction\n\nProximity labeling (TurboID)\n\nMass spectrometry \n\nMass spectrometry data analysis \n\nLaser induced DNA damage and Live-Cell Imaging\n\nImage analysis and protein recruitment to DNA lesions\n\nAntibodies production \n\nCRISPR–Cas9 genome editing\n\nComet assay\n\nDNA repair synthesis assay (AKA unscheduled DNA synthesis assay)\n\nSingle-stranded DNA (ssDNA) staining\n\nFluorescence-based multiplex host cell reactivation assay (FM-HCR) \n\nMutagenesis frequency measurement \n\nMicrosatellite stability assays\n\nStatistical Analysis\n\nqRT-PCR",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Pagano, Michele/BACH1 FBXO22 FBXL17_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Pagano, Michele/CycD MMR_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Pagano, Michele/D1 DCAF3_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Pagano, Michele/EMSY_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Pagano, Michele/SKP1_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_nadav_brandes",
@@ -190,7 +348,39 @@
       "Biochemistry and Molecular Pharmacology",
       "Center for Human Genetics and Genomics"
     ],
-    "common_experiments_raw": "Modeling genomic sequences and genetic variation with AI."
+    "common_experiments_raw": "Modeling genomic sequences and genetic variation with AI.",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Center for Human Genetics and Genomics/Brandes, Nadav/2025.09.05.674459v2.full_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Center for Human Genetics and Genomics/Brandes, Nadav/btac020_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Center for Human Genetics and Genomics/Brandes, Nadav/preprints202511.1875.v1_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Center for Human Genetics and Genomics/Brandes, Nadav/s13059-020-02089-x_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Center for Human Genetics and Genomics/Brandes, Nadav/s41588-023-01465-0_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   },
   {
     "id": "intake_paolo_mita",
@@ -222,6 +412,38 @@
     "affiliations": [
       "Biochemistry and Molecular Pharmacology"
     ],
-    "common_experiments_raw": "- Immunoblot\n- Immunoprecipitation\n- Pull down with recombinant proteins\n- Tissue culture\n- Molecular Cloning\n- CRISPR/Cas9 knockout\n- shRNA knockdown\n- Gene overexpression\n- Genetically-engineered mouse models\n- Histology and IHC\n- Recombinant protein production\n- In vitro ubiquitination assays\n- Gene expression analysis"
+    "common_experiments_raw": "- Immunoblot\n- Immunoprecipitation\n- Pull down with recombinant proteins\n- Tissue culture\n- Molecular Cloning\n- CRISPR/Cas9 knockout\n- shRNA knockdown\n- Gene overexpression\n- Genetically-engineered mouse models\n- Histology and IHC\n- Recombinant protein production\n- In vitro ubiquitination assays\n- Gene expression analysis",
+    "publications": [
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Castel, Pau/Cuevas-Navarro_Wagner_Science_Adv_2023_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Castel, Pau/Cuevas-Navarro_eLife_2022_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Castel, Pau/Mozzarelli_MolCell_2024_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Castel, Pau/can-24-3819 (1)_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      },
+      {
+        "file": "/Users/tenoeb01/Desktop/Galaxy Files/pubs_inbox/Biochem/Castel, Pau/science.adv7088 (1)_anonymous.pdf",
+        "title": null,
+        "year": null,
+        "doi": null
+      }
+    ]
   }
 ]
