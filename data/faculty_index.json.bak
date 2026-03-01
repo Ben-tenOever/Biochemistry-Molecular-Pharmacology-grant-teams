@@ -1,0 +1,77 @@
+[
+  {
+    "id": "intake_alexander_serganov",
+    "name": "Alexander Serganov",
+    "title": "Principal Investigator",
+    "summary": "We use a combination of biophysical methods, biochemical techniques, and structural approaches, including X-ray crystallography and cryo-electron microscopy, to elucidate molecular mechanisms of fundamental cellular processes associated with biosynthesis of RNA, metabolism of RNA, and RNA-mediated gene expression control.",
+    "keywords": [],
+    "search_text": "Alexander Serganov Principal Investigator We use a combination of biophysical methods, biochemical techniques, and structural approaches, including X-ray crystallography and cryo-electron microscopy, to elucidate molecular mechanisms of fundamental cellular processes associated with biosynthesis of RNA, metabolism of RNA, and RNA-mediated gene expression control."
+  },
+  {
+    "id": "intake_david_fenyo",
+    "name": "David Fenyo",
+    "title": "Professor",
+    "summary": "In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems.",
+    "keywords": [
+      "proteomics",
+      "multi-omics integration",
+      "proteogenomics",
+      "machine learning",
+      "deep learning",
+      "computational pathology",
+      "multiplexed imaging",
+      "spatial omics",
+      "cancer biology",
+      "immune regulation"
+    ],
+    "search_text": "David Fenyo Professor In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. proteomics multi-omics integration proteogenomics machine learning deep learning computational pathology multiplexed imaging spatial omics cancer biology immune regulation"
+  },
+  {
+    "id": "intake_drew_jones",
+    "name": "Drew Jones",
+    "title": "Assistant Professor/Director",
+    "summary": "The ongoing theme of my work is the invention or adaptation of advanced chromatography and mass spectrometry technology to tackle challenging analytical problems with a translational potential.",
+    "keywords": [],
+    "search_text": "Drew Jones Assistant Professor/Director The ongoing theme of my work is the invention or adaptation of advanced chromatography and mass spectrometry technology to tackle challenging analytical problems with a translational potential."
+  },
+  {
+    "id": "intake_gregory_david",
+    "name": "Gregory David",
+    "title": "Assocaite Professor",
+    "summary": "The research conducted in our laboratory centers on the interplay between aging and cancer.",
+    "keywords": [],
+    "search_text": "Gregory David Assocaite Professor The research conducted in our laboratory centers on the interplay between aging and cancer."
+  },
+  {
+    "id": "intake_michele_pagano",
+    "name": "Michele Pagano",
+    "title": "Chair, Department of Biochemistry & Molecular Pharmacology. Investigator, HHMI",
+    "summary": "Our laboratory is interested in how ubiquitin-mediated proteolysis controls the three key dimensions of cellular life: proliferation, survival, and differentiation.",
+    "keywords": [],
+    "search_text": "Michele Pagano Chair, Department of Biochemistry & Molecular Pharmacology. Investigator, HHMI Our laboratory is interested in how ubiquitin-mediated proteolysis controls the three key dimensions of cellular life: proliferation, survival, and differentiation."
+  },
+  {
+    "id": "intake_nadav_brandes",
+    "name": "Nadav Brandes",
+    "title": "Assistant Professor",
+    "summary": "Large Language Models (LLMs) have revolutionized Artificial intelligence (AI).",
+    "keywords": [],
+    "search_text": "Nadav Brandes Assistant Professor Large Language Models (LLMs) have revolutionized Artificial intelligence (AI)."
+  },
+  {
+    "id": "intake_paolo_mita",
+    "name": "Paolo Mita",
+    "title": "Research Assistant Professor",
+    "summary": "Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process.",
+    "keywords": [],
+    "search_text": "Paolo Mita Research Assistant Professor Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process."
+  },
+  {
+    "id": "intake_pau_castel",
+    "name": "Pau Castel",
+    "title": "Assistant Professor",
+    "summary": "The Castel laboratory is interested in understanding the molecular mechanisms underlying oncoprotein-mediated transformation.",
+    "keywords": [],
+    "search_text": "Pau Castel Assistant Professor The Castel laboratory is interested in understanding the molecular mechanisms underlying oncoprotein-mediated transformation."
+  }
+]
