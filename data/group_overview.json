@@ -1,10 +1,10 @@
 {
   "label": "Biochemistry and Molecular Pharmacology",
-  "overview": "Biochemistry and Molecular Pharmacology brings together 9 investigators working across proteomics, multi-omics integration, proteogenomics, machine learning, deep learning. Collectively, the group spans strengths in sequencing, rna, microscopy, crispr, mouse. This site provides within group pair and multi investigator team suggestions derived only from the group roster to keep matches in scope.",
+  "overview": "Biochemistry and Molecular Pharmacology brings together 8 investigators working across proteomics, multi-omics integration, proteogenomics, machine learning, deep learning. Collectively, the group spans strengths in microscopy, rna, mass, spectrometry, structural. This site provides within-group pair and multi-investigator team suggestions derived only from the group roster to keep matches in scope.",
   "stats": {
-    "faculty_count": 9,
-    "pairs_count": 799,
-    "teams3plus_count": 599,
+    "faculty_count": 8,
+    "pairs_count": 599,
+    "teams3plus_count": 312,
     "opportunities_covered": 200
   },
   "top_themes": [
@@ -20,15 +20,15 @@
     "immune regulation"
   ],
   "top_approaches": [
-    "sequencing",
-    "rna",
     "microscopy",
-    "crispr",
-    "mouse",
+    "rna",
+    "mass",
+    "spectrometry",
     "structural",
+    "sequencing",
     "proteomics",
     "imaging",
     "omics",
-    "stem"
+    "chromatography"
   ]
 }
