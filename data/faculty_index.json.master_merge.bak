@@ -7,11 +7,12 @@
     "keywords": [],
     "search_text": "Alexander Serganov Principal Investigator We use a combination of biophysical methods, biochemical techniques, and structural approaches, including X-ray crystallography and cryo-electron microscopy, to elucidate molecular mechanisms of fundamental cellular processes associated with biosynthesis of RNA, metabolism of RNA, and RNA-mediated gene expression control.",
     "lab_synopsis": "We use a combination of biophysical methods, biochemical techniques, and structural approaches, including X-ray crystallography and cryo-electron microscopy, to elucidate molecular mechanisms of fundamental cellular processes associated with biosynthesis of RNA, metabolism of RNA, and RNA-mediated gene expression control. We study Fragile X syndrome and antibiotic resistance. We design small molecule drugs to target proteins.",
-    "summary_short": "We use a combination of biophysical methods, biochemical techniques, and structural approaches, including X-ray crystallography and cryo-electron microscopy, to elucidate molecular mechanisms of fundamental cellular processes associated with biosynthesis of RNA, metabolism of RNA, and RNA-mediated gene expression control.",
+    "summary_short": "We use a combination of biophysical methods, biochemical techniques, and structural approaches, including X-ray crystallography and cryo-electron microscopy, to elucidate molecular mechanisms of fundamental cellular processes associated with biosynthesis of RNA, metabolism of RNA, and RNA-mediated gene expression control. We study Fragile X syndrome and antibiotic resistance.",
     "research_keywords": [],
     "affiliations": [
       "Biochemistry and Molecular Pharmacology"
-    ]
+    ],
+    "common_experiments_raw": "X-ray crystallography, cryo-EM, biochemical assays, drug design"
   },
   {
     "id": "intake_david_fenyo",
@@ -32,7 +33,7 @@
     ],
     "search_text": "David Fenyo Professor In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. proteomics multi-omics integration proteogenomics machine learning deep learning computational pathology multiplexed imaging spatial omics cancer biology immune regulation",
     "lab_synopsis": "In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions. I apply these computational methods to solve practical problems in experimental design optimization and quantitative data analysis. A large portion of my work has been on proteomic data analysis: I established a statistical basis for testing the significance of protein identification results, developed computational methods and databases for protein identification, quantitation and characterization of post-translational modifications and interaction, and applied machine learning to build predictive models. I am currently focusing on developing methods for integrating multi-modal data—including multi-omics, imaging and text data— which have provided a wide array of powerful tools for discovery and verify biomarkers and therapeutic targets in cancer. I am applying multi-omics approaches to better understand tumor biology with a focus on improving patient treatment.",
-    "summary_short": "In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems.",
+    "summary_short": "In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.",
     "research_keywords": [
       "proteomics",
       "multi-omics integration",
@@ -48,6 +49,86 @@
     "affiliations": [
       "Biochemistry and Molecular Pharmacology",
       "Institute for Systems Genetics (ISG)"
+    ],
+    "experimental_capabilities": [
+      "LC-MS/MS proteomics (including multiplexed quantification workflows such as isobaric labeling and phospho-enrichment)",
+      "targeted proteomics assays using heavy peptide standards",
+      "integrative analysis of proteomic, transcriptomic, genomic, and imaging datasets",
+      "deep learning models for whole-slide histopathology and multiplexed imaging",
+      "spatial omics method development and benchmarking using simulated and reference datasets"
+    ],
+    "model_systems": [
+      "human tumor cohorts and clinical specimens",
+      "public cancer multi-omics resources (e.g., CPTAC-style proteogenomic datasets)",
+      "whole-slide histopathology images",
+      "multiplexed imaging datasets",
+      "spatial transcriptomics and spatial proteomics datasets"
+    ],
+    "publications": [
+      {
+        "title": "SimSpace: a comprehensive in-silico spatial omics data simulation framework",
+        "venue": "bioRxiv",
+        "year": 2025,
+        "pdf": "2025.07.18.665587v1.full_anonymous.pdf",
+        "tags": [
+          "spatial omics",
+          "simulation",
+          "benchmarking"
+        ]
+      },
+      {
+        "title": "Characterization of tumour heterogeneity through segmentation-free representation learning on multiplexed imaging data",
+        "venue": "Nature Biomedical Engineering",
+        "year": 2025,
+        "pdf": "s41551-025-01348-1_anonymous.pdf",
+        "tags": [
+          "multiplexed imaging",
+          "representation learning",
+          "tumor heterogeneity"
+        ]
+      },
+      {
+        "title": "Pan-cancer analysis reveals context-dependent roles of LINE-1 ORF1p in immune regulation and copy number alterations",
+        "venue": "bioRxiv",
+        "year": 2025,
+        "pdf": "2025.10.03.680361.full_anonymous.pdf",
+        "tags": [
+          "transposable elements",
+          "ORF1p",
+          "immune regulation"
+        ]
+      },
+      {
+        "title": "Deep learning integrates histopathology and proteogenomics at a pan-cancer level",
+        "venue": "Cell Reports Medicine",
+        "year": 2023,
+        "pdf": "1-s2.0-S2666379123003269-main_anonymous.pdf",
+        "tags": [
+          "deep learning",
+          "histopathology",
+          "proteogenomics"
+        ]
+      },
+      {
+        "title": "Integrated proteogenomic characterization of endometrial carcinoma",
+        "venue": "Cancer Cell",
+        "year": 2023,
+        "pdf": "1-s2.0-S1535610823002477-main_anonymous.pdf",
+        "tags": [
+          "proteogenomics",
+          "endometrial carcinoma",
+          "biomarkers"
+        ]
+      }
+    ],
+    "common_experiments_raw": "Computational analysis of omics and imaging data",
+    "common_reagents_and_platforms": [
+      "mass spectrometry platforms for discovery and targeted proteomics",
+      "isobaric labeling reagents and phospho-enrichment chemistries",
+      "stable isotope labeled synthetic peptide standards",
+      "histopathology slide scanning and image analysis pipelines",
+      "multiplexed imaging platforms and antibody panels",
+      "GPU and high performance computing resources for machine learning"
     ]
   },
   {
@@ -58,11 +139,12 @@
     "keywords": [],
     "search_text": "Drew Jones Assistant Professor/Director The ongoing theme of my work is the invention or adaptation of advanced chromatography and mass spectrometry technology to tackle challenging analytical problems with a translational potential.",
     "lab_synopsis": "The ongoing theme of my work is the invention or adaptation of advanced chromatography and mass spectrometry technology to tackle challenging analytical problems with a translational potential. Methodologically, much of my science is designed around using high throughput LC-MS as the analytical readout of biochemical experiments. Biologically, my efforts have grown from studying targeted metabolic pathways in drug metabolism, to global metabolic profiling in a variety of disease states. I learned about the power of this approach in my graduate studies which examined the metabolic pathways of the widely used anticoagulant drug, warfarin. Many biological hypotheses had been overlooked in the field because of the analytical challenge of separating and quantifying the diverse array of its metabolites called hydroxywarfarins. To address this challenge, I ultimately invented and patented a new chromatographic technology which enabled us to analyze clinical samples with unprecedented completeness. This led to the discovery of an unexpected feedback inhibition mechanism which partly explains the high-degree of interpersonal variation in drug-response beyond what pharmacogenetic studies can explain. From this example, I expanded my efforts to large-scale metabolomics experiments, with the focus of improving the confidence of metabolite annotations from global experiments, a similar bottleneck in our ability to advance scientific understanding and test metabolic hypotheses. I developed a stable isotope labeling method which can solve the chemical formula of an unknown metabolite de novo. I designed software to automate the analysis of such data and introduced the first false-discovery control method for compound identification in metabolomics. My long-term direction is to continue developing metabolomics data analysis tools which make it easier for investigators to apply metabolomics technology to their own research. I have been applying these tools and others to many collaborative research projects within the scope of my role as Director of the NYU Metabolomics Core Resource laboratory and in my own independent research within my appointment as an Assistant Professor on diverse topics related to development of data analysis tools for metabolomics informatics and human exposures and response to environmental toxicants.",
-    "summary_short": "The ongoing theme of my work is the invention or adaptation of advanced chromatography and mass spectrometry technology to tackle challenging analytical problems with a translational potential.",
+    "summary_short": "The ongoing theme of my work is the invention or adaptation of advanced chromatography and mass spectrometry technology to tackle challenging analytical problems with a translational potential. Methodologically, much of my science is designed around using high throughput LC-MS as the analytical readout of biochemical experiments.",
     "research_keywords": [],
     "affiliations": [
       "Biochemistry and Molecular Pharmacology"
-    ]
+    ],
+    "common_experiments_raw": "Mass spectrometry, metabolomics, enzyme inhibition, metabolic fate, isotope tracing, flux, targeted quantification"
   },
   {
     "id": "intake_gregory_david",
@@ -72,25 +154,27 @@
     "keywords": [],
     "search_text": "Gregory David Assocaite Professor The research conducted in our laboratory centers on the interplay between aging and cancer.",
     "lab_synopsis": "The research conducted in our laboratory centers on the interplay between aging and cancer. In particular, we are interested in identifying the cellular hallmarks of aging and their impact on cancer initiation and progression. Among these hallmarks of aging, cellular senescence recently emerged as one of the most universally recognized feature of organismal and cellular aging. Cellular Senescence is defined as a stable cell cycle exit triggered by different stress, including oncogene activation and telomere attrition. Strikingly, markers of cellular senescence are commonly found in pre-malignant cells. As it limits the proliferation of damaged cells, senescence was first hypothesized to serve as a barrier against cancer progression. Paradoxically, recent studies by us and others have indicated that cellular senescence can promote cancer progression in specific contexts. These seemingly opposite effects of cellular senescence on tumor progression can be reconciled by the recent realization that cellular senescence encompasses additional phenotypes, including the secretion of a specific set of proteins collectively referred to as SASP (for Senescence-Associated Secretory Phenotype). The SASP reinforces senescence, induces neighboring cells to senesce, and modulates immune-mediated clearance of pre-cancerous senescent cells. Conversely, accumulating evidence indicate that the SASP may also have pro-tumorigenic effects, including the stimulation of cancer cell proliferation, motility, and the generation of an inflammatory environment that promotes tumor growth. Our research aims at understanding how the SASP is generated by senescent cells and its impact on inflammation, immune response and cancer heterogeneity and progression using cellular and mouse models. Our long-term goal is to harness our understanding of senescence for therapeutic purposes. In addition, we are also interested in the impact of ageing and age-associated alterations of the chromatin landscape on cellular function, with a focus on the hematopoietic system.",
-    "summary_short": "The research conducted in our laboratory centers on the interplay between aging and cancer.",
+    "summary_short": "The research conducted in our laboratory centers on the interplay between aging and cancer. In particular, we are interested in identifying the cellular hallmarks of aging and their impact on cancer initiation and progression.",
     "research_keywords": [],
     "affiliations": [
       "Biochemistry and Molecular Pharmacology"
-    ]
+    ],
+    "common_experiments_raw": "CRISPR based genetic manipulation of cancer cells\nRNAseq\nscRNAseq\nsenescence induction\nmouse models of cancer"
   },
   {
     "id": "intake_michele_pagano",
     "name": "Michele Pagano",
-    "title": "Chair, Department of Biochemistry & Molecular Pharmacology. Investigator, HHMI",
+    "title": "Chair, Department of Biochemistry & Molecular Pharmacology.  Investigator, HHMI",
     "summary": "Our laboratory is interested in how ubiquitin-mediated proteolysis controls the three key dimensions of cellular life: proliferation, survival, and differentiation.",
     "keywords": [],
     "search_text": "Michele Pagano Chair, Department of Biochemistry & Molecular Pharmacology. Investigator, HHMI Our laboratory is interested in how ubiquitin-mediated proteolysis controls the three key dimensions of cellular life: proliferation, survival, and differentiation.",
     "lab_synopsis": "Our laboratory is interested in how ubiquitin-mediated proteolysis controls the three key dimensions of cellular life:  proliferation, survival, and differentiation.  Specifically, we aim at dissecting the biochemical and molecular mechanisms behind fundamental cellular processes that, when deregulated, result in cancer.  We use an interdisciplinary approach to test new hypotheses and biological concepts. The remarkable processivity of the Ubiquitin-Proteasome System (UPS) enables it to very rapidly eliminate protein substrates.  This is achieved by utilizing more than 600 effectors (i.e., the ubiquitin ligases) rendering the whole system an exquisite example of biochemical specificity.  In this regard, the ca. 230 members of the CRL (Cullin-RING-ubiquitin Ligase) family represent an extraordinary machinery of protein destruction, which unidirectionally controls the cellular abundance of regulatory proteins both temporally and spatially.  Moreover, its control over a wide array of substrates renders the CRL machinery a central node in the regulation of cellular homeostasis. Our lab was among the first to establish that the cell cycle is regulated by the UPS. Our early research revealed that the levels of the cyclin-dependent kinase (CDK) inhibitor p27 oscillate throughout the cell cycle due to differential ubiquitylation and degradation. We later discovered that the degradation of p27 and its paralog p21 is orchestrated by the CRL1-SKP2 complex and its cofactor CKS1. Building on these findings, we elucidated the pivotal role of additional CRLs in the precise spatiotemporal regulation of core cell-cycle components and their upstream regulators. We demonstrated that a dynamic degradation cycle driven by CRLs dictates the tempo of cell-cycle progression by modulating distinct elements of the CDK regulatory network within defined time windows. Furthermore, we uncovered how CRLs establish a direct mechanistic link between DNA replication, centrosome duplication, and cell division, ensuring faithful cell-cycle progression. Expanding our research beyond the cell cycle, we revealed that the CRL family serves as a master regulator, coordinating multiple, seemingly disparate cellular processes, including protein synthesis, ribosomal biogenesis, apoptosis, DNA-damage checkpoints, and circadian rhythms. Our studies in mouse models illuminated how dysregulation of CRLs and their downstream networks drives malignant transformation and how it can be targeted with novel therapeutic strategies. Additionally, we explored the role of CRLs in metastatic progression and demonstrated that aberrant protein degradation is a hallmark of human cancers and frequently serves as a prognostic marker. In summary, much research in my laboratory has arisen from the paradigm of the timed regulation of the mammalian cell division cycle by the UPS that I established a number of years ago.  Today we have expanded our focus to five main areas: (i) cell signaling, (ii) cell cycle regulation, (iii) the DNA damage response, (iv) oncology, and (v) drug discovery.",
-    "summary_short": "Our laboratory is interested in how ubiquitin-mediated proteolysis controls the three key dimensions of cellular life: proliferation, survival, and differentiation.",
+    "summary_short": "Our laboratory is interested in how ubiquitin-mediated proteolysis controls the three key dimensions of cellular life:  proliferation, survival, and differentiation. Specifically, we aim at dissecting the biochemical and molecular mechanisms behind fundamental cellular processes that, when deregulated, result in cancer.",
     "research_keywords": [],
     "affiliations": [
       "Biochemistry and Molecular Pharmacology"
-    ]
+    ],
+    "common_experiments_raw": "Cell culture and cell transfection\n\nVirus-mediated gene transfer\n\nCell synchronization\n\nImmunoprecipitation (IP), immunoblotting (IB) and fractionation\n\nImmunofluorescence (IF) microscopy\n\nSite-specific ROS and DSB induction\n\nProximity labeling (TurboID)\n\nMass spectrometry \n\nMass spectrometry data analysis \n\nLaser induced DNA damage and Live-Cell Imaging\n\nImage analysis and protein recruitment to DNA lesions\n\nAntibodies production \n\nCRISPR–Cas9 genome editing\n\nComet assay\n\nDNA repair synthesis assay (AKA unscheduled DNA synthesis assay)\n\nSingle-stranded DNA (ssDNA) staining\n\nFluorescence-based multiplex host cell reactivation assay (FM-HCR) \n\nMutagenesis frequency measurement \n\nMicrosatellite stability assays\n\nStatistical Analysis\n\nqRT-PCR"
   },
   {
     "id": "intake_nadav_brandes",
@@ -100,12 +184,13 @@
     "keywords": [],
     "search_text": "Nadav Brandes Assistant Professor Large Language Models (LLMs) have revolutionized Artificial intelligence (AI).",
     "lab_synopsis": "Large Language Models (LLMs) have revolutionized Artificial intelligence (AI). Despite being originally designed for text, these models turn out to be incredibly effective for biological sequences like DNA and proteins. We were among the first to develop protein language models (pLMs) as global predictors of protein structure and protein function. We also showed that protein and DNA language models can accurately distinguish between disease-causing and benign mutations. The Brandes Lab continues to work on challenges that would unlock the full potential of genomic AI to prediagnose and treat disease and understand our genomes.  Join Us! If you are excited about this research agenda, come work with us.  Join Us   1. Predict diverse mutation effects in coding & noncoding regions We seek to further improve mutation effect predictions with protein and DNA language models. Existing variant effect prediction algorithms try to predict whether a given variant is damaging or neutral, but variant effect is not a one-dimensional phenomenon. For example, different mutations in the same gene may lead to loss-of-function, gain-of-function or dominant-negative effects. We use modern AI, which is inherently high-dimensional, to tease apart these different effects. We also use data from high-throughput experiments such as deep mutational scans and single-cell RNA-sequencing to refine and improve our predictions over the mutational landscape.  2. Genetic engineering We leverage our improved models of genetic effects to search for mutation combinations that optimize the genetic background of cells, for example to make immune cells more potent against tumors in cancer immunotherapy.  3. Improve genomic foundation models A key bottleneck in genomic AI is insufficiently challenging benchmarks that mislead model developers. We see human genetics as providing uniquely challenging problems that only models with true knowledge about the underlying biology can tackle. Equipped with improved benchmarks, we seek to train better genomic foundation models that can address these important tasks. We also train phylogenetic-aware models that would allow foundation models to scale better.  4. Incorporate variant effect prediction in statistical genetics to implicate rare variants and establish causality Genome-wide association studies (GWAS) and polygenic risk scores (PRS) are purely statistical: they search for genetic variants correlated with disease status without knowing anything about the molecular effects of these variants. In contrast, we leverage variant effect predictions, especially those made by frontier AI models, to guide GWAS and PRS towards variants more likely to have an effect. These functional priors is especially important in the presence of limited evidence (rare mutations) and when attempting to distinguish between causal and non-causal associations. We test our methods on large-scale genetic cohorts such as the UK Biobank.  5. Clinical implementation of genomic AI in genetic testing We seek to modify the existing clinical guidelines to make better use of advanced genomic AI, for example when diagnosing rare genetic diseases. To do that, we evaluate the capacity of these models to provide better clinical evidence compared to existing protocols.",
-    "summary_short": "Large Language Models (LLMs) have revolutionized Artificial intelligence (AI).",
+    "summary_short": "Large Language Models (LLMs) have revolutionized Artificial intelligence (AI). Despite being originally designed for text, these models turn out to be incredibly effective for biological sequences like DNA and proteins.",
     "research_keywords": [],
     "affiliations": [
       "Biochemistry and Molecular Pharmacology",
       "Center for Human Genetics and Genomics"
-    ]
+    ],
+    "common_experiments_raw": "Modeling genomic sequences and genetic variation with AI."
   },
   {
     "id": "intake_paolo_mita",
@@ -115,13 +200,14 @@
     "keywords": [],
     "search_text": "Paolo Mita Research Assistant Professor Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process.",
     "lab_synopsis": "Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process.  My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.   I seek to advance the basic understanding of L1 retrotransposon physiology in human cells and explore its role in human diseases and processes, such as cancer, aging and wound healing. Specifically, we aim to identify and study the impact of L1 proteins, mRNA expression and activity on a variety of cellular mechanisms, including DNA damage and replication, cellular ploidy during tumor evolution, viral sensing pathways, and the deregulation of tumor suppressors and oncogenes.   To achieve these goals, we use a multidisciplinary approach that integrates genetic, microscopy, and proteomic techniques in both in vitro and in vivo mouse models. By leveraging these tools, we are mechanistically characterizing the impact of L1 on cellular physiology. This knowledge has the potential to inform the development of novel therapeutic and diagnostic approaches, thereby contributing to improved clinical outcomes.  More recently I am also involved in the development and implementation of new synthetic biology and cell engineering approaches applied to the protection and restoration of endangered bird species.",
-    "summary_short": "Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process.",
+    "summary_short": "Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.",
     "research_keywords": [],
     "affiliations": [
       "Biochemistry and Molecular Pharmacology",
       "Institute for Systems Genetics (ISG)",
       "Microbiology"
-    ]
+    ],
+    "common_experiments_raw": "Cell culture \nWestern blotting\nLINE-1 retrotransposition assays\ncell cycle measurement\naneuploidy quantification\ngrowth assays\nscratch assays\nimmunofluorescence\nmammary fat pad injection\nCRISPR screens\ngenome engineering\nproteins over-expression\ngene knock down \ncell sorting\nflow cytometry measurements"
   },
   {
     "id": "intake_pau_castel",
@@ -131,10 +217,11 @@
     "keywords": [],
     "search_text": "Pau Castel Assistant Professor The Castel laboratory is interested in understanding the molecular mechanisms underlying oncoprotein-mediated transformation.",
     "lab_synopsis": "The Castel laboratory is interested in understanding the molecular mechanisms underlying oncoprotein-mediated transformation. Our laboratory uses biochemical, cell signaling, mouse modeling, and pharmacological approaches to elucidate the functions and regulation of different oncoproteins in cancer and congenital disorders. We are particularly interested in the RAS family of GTPases, which are involved in mitogenic signaling and are notorious drivers of cancer and neurodevelopmental syndromes.  More specifically, the current projects in our laboratory include:   1. Study of RAS protein effectors and their contribution to disease.   2. Regulation of RAS signaling components by ubiquitination and proteasomal degradation.   3. Development of cellular and mouse models that recapitulate RAS-driven diseases.   Overall, our research program will provide novel mechanistic insights into the complex process of transformation and is aimed at identifying and developing novel therapeutic strategies for cancer and congenital disorders.",
-    "summary_short": "The Castel laboratory is interested in understanding the molecular mechanisms underlying oncoprotein-mediated transformation.",
+    "summary_short": "The Castel laboratory is interested in understanding the molecular mechanisms underlying oncoprotein-mediated transformation. Our laboratory uses biochemical, cell signaling, mouse modeling, and pharmacological approaches to elucidate the functions and regulation of different oncoproteins in cancer and congenital disorders.",
     "research_keywords": [],
     "affiliations": [
       "Biochemistry and Molecular Pharmacology"
-    ]
+    ],
+    "common_experiments_raw": "- Immunoblot\n- Immunoprecipitation\n- Pull down with recombinant proteins\n- Tissue culture\n- Molecular Cloning\n- CRISPR/Cas9 knockout\n- shRNA knockdown\n- Gene overexpression\n- Genetically-engineered mouse models\n- Histology and IHC\n- Recombinant protein production\n- In vitro ubiquitination assays\n- Gene expression analysis"
   }
 ]
