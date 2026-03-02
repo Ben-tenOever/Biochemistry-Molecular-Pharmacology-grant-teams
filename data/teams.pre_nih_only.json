@@ -1,0 +1,182 @@
+[
+  {
+    "team_type": "pair",
+    "team_name": "Biochemistry and Molecular Pharmacology pair: Michele Pagano + Nadav Brandes",
+    "opportunity_id": "cd4dd647-b2b4-49d9-aac3-0033d0eb434c",
+    "opportunity_number": "DE-FOA-0003164",
+    "opportunity_title": "SPURRING PROJECTS TO ADVANCE ENERGY RESEARCH AND KNOWLEDGE SWIFTLY (SPARKS)",
+    "members": [
+      "Michele Pagano",
+      "Nadav Brandes"
+    ],
+    "member_ids": [
+      "intake_michele_pagano",
+      "intake_nadav_brandes"
+    ],
+    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
+    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
+    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
+    "confidence": "medium",
+    "confidence_score": 64.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003164",
+    "synopsis": "This application would address SPURRING PROJECTS TO ADVANCE ENERGY RESEARCH AND KNOWLEDGE SWIFTLY (SPARKS) by integrating complementary expertise across the team. The proposed collaboration is centered on more, can, which, have and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Nadav Brandes: Large Language Models (LLMs) have revolutionized Artificial intelligence (AI). Despite being originally designed for text, these models turn out to be incredibly effective for biological sequences like DNA and proteins.; Michele Pagano: Our laboratory is interested in how ubiquitin-mediated proteolysis controls the three key dimensions of cellular life:  proliferation, survival, and differentiation. Specifically, we aim at dissecting the biochemical and molecular mechanisms behind fundamental cellular processes that, when deregulated, result in cancer..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in more, can, which, have using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
+  },
+  {
+    "team_type": "pair",
+    "team_name": "Biochemistry and Molecular Pharmacology pair: David Fenyo + Gregory David",
+    "opportunity_id": "cd4dd647-b2b4-49d9-aac3-0033d0eb434c",
+    "opportunity_number": "DE-FOA-0003164",
+    "opportunity_title": "SPURRING PROJECTS TO ADVANCE ENERGY RESEARCH AND KNOWLEDGE SWIFTLY (SPARKS)",
+    "members": [
+      "David Fenyo",
+      "Gregory David"
+    ],
+    "member_ids": [
+      "intake_david_fenyo",
+      "intake_gregory_david"
+    ],
+    "rationale": "Shared terms: research",
+    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
+    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
+    "confidence": "medium",
+    "confidence_score": 45.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003164",
+    "synopsis": "This application would address SPURRING PROJECTS TO ADVANCE ENERGY RESEARCH AND KNOWLEDGE SWIFTLY (SPARKS) by integrating complementary expertise across the team. The proposed collaboration is centered on including, have, research, focus and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Gregory David: The research conducted in our laboratory centers on the interplay between aging and cancer. In particular, we are interested in identifying the cellular hallmarks of aging and their impact on cancer initiation and progression..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in including, have, research, focus using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
+  },
+  {
+    "team_type": "pair",
+    "team_name": "Biochemistry and Molecular Pharmacology pair: David Fenyo + Drew Jones",
+    "opportunity_id": "fd281670-a13c-4cd9-a526-7bb67a98d227",
+    "opportunity_number": "DE-FOA-0003467",
+    "opportunity_title": "SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY",
+    "members": [
+      "David Fenyo",
+      "Drew Jones"
+    ],
+    "member_ids": [
+      "intake_david_fenyo",
+      "intake_drew_jones"
+    ],
+    "rationale": "Shared terms: potential, technologies",
+    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
+    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
+    "confidence": "medium",
+    "confidence_score": 76.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003467",
+    "synopsis": "This application would address SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY by integrating complementary expertise across the team. The proposed collaboration is centered on apply, problems, tools, developing and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Drew Jones: The ongoing theme of my work is the invention or adaptation of advanced chromatography and mass spectrometry technology to tackle challenging analytical problems with a translational potential. Methodologically, much of my science is designed around using high throughput LC-MS as the analytical readout of biochemical experiments.; David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in apply, problems, tools, developing using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
+  },
+  {
+    "team_type": "pair",
+    "team_name": "Biochemistry and Molecular Pharmacology pair: Nadav Brandes + Paolo Mita",
+    "opportunity_id": "fd281670-a13c-4cd9-a526-7bb67a98d227",
+    "opportunity_number": "DE-FOA-0003467",
+    "opportunity_title": "SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY",
+    "members": [
+      "Nadav Brandes",
+      "Paolo Mita"
+    ],
+    "member_ids": [
+      "intake_nadav_brandes",
+      "intake_paolo_mita"
+    ],
+    "rationale": "Low lexical overlap; plausible conceptual fit based on general scope.",
+    "suggested_specific_aim": "Define a focused pilot that ties the opportunity deliverable to an existing departmental strength and a measurable endpoint.",
+    "next_steps": "Confirm eligibility and scope, assign a lead, draft a one page concept, and map resources and preliminary data needs.",
+    "confidence": "medium",
+    "confidence_score": 73.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003467",
+    "synopsis": "This application would address SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY by integrating complementary expertise across the team. The proposed collaboration is centered on more, only, which, potential and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Nadav Brandes: Large Language Models (LLMs) have revolutionized Artificial intelligence (AI). Despite being originally designed for text, these models turn out to be incredibly effective for biological sequences like DNA and proteins.; Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in more, only, which, potential using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
+  },
+  {
+    "team_type": "team",
+    "team_name": "Biochemistry and Molecular Pharmacology team: Michele Pagano, Nadav Brandes et al",
+    "opportunity_id": "fd281670-a13c-4cd9-a526-7bb67a98d227",
+    "opportunity_number": "DE-FOA-0003467",
+    "opportunity_title": "SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY",
+    "members": [
+      "Michele Pagano",
+      "Nadav Brandes",
+      "Paolo Mita",
+      "Pau Castel"
+    ],
+    "member_ids": [
+      "intake_michele_pagano",
+      "intake_nadav_brandes",
+      "intake_paolo_mita",
+      "intake_pau_castel"
+    ],
+    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
+    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
+    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
+    "confidence": "medium",
+    "confidence_score": 118.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003467",
+    "synopsis": "This application would address SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY by integrating complementary expertise across the team. The proposed collaboration is centered on more, which, research, their and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Nadav Brandes: Large Language Models (LLMs) have revolutionized Artificial intelligence (AI). Despite being originally designed for text, these models turn out to be incredibly effective for biological sequences like DNA and proteins.; Michele Pagano: Our laboratory is interested in how ubiquitin-mediated proteolysis controls the three key dimensions of cellular life:  proliferation, survival, and differentiation. Specifically, we aim at dissecting the biochemical and molecular mechanisms behind fundamental cellular processes that, when deregulated, result in cancer.; Paolo Mita: Transposable elements (TE) are sequences of DNA that are capable of moving within a host genome, and thus are often referred to as “jumping genes.” DNA transposons use a “cut and paste” mechanism to move within a host genome while retrotransposons increase their amount using a “copy and paste” process. My research focuses on the study of the Long Interspersed Element-1 (LINE-1 or L1) retrotransposon, which is the only TE capable of autonomously \"jumping\" within the human genome.; Pau Castel: The Castel laboratory is interested in understanding the molecular mechanisms underlying oncoprotein-mediated transformation. Our laboratory uses biochemical, cell signaling, mouse modeling, and pharmacological approaches to elucidate the functions and regulation of different oncoproteins in cancer and congenital disorders..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in more, which, research, their using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
+  },
+  {
+    "team_type": "team",
+    "team_name": "Biochemistry and Molecular Pharmacology team: David Fenyo, Drew Jones et al",
+    "opportunity_id": "fd281670-a13c-4cd9-a526-7bb67a98d227",
+    "opportunity_number": "DE-FOA-0003467",
+    "opportunity_title": "SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY",
+    "members": [
+      "David Fenyo",
+      "Drew Jones",
+      "Alexander Serganov"
+    ],
+    "member_ids": [
+      "intake_david_fenyo",
+      "intake_drew_jones",
+      "intake_alexander_serganov"
+    ],
+    "rationale": "Team spans complementary expertise aligned to the opportunity scope based on summary keyword overlap.",
+    "suggested_specific_aim": "Propose an integrated workflow where each member owns a module contributing to one coherent milestone driven plan.",
+    "next_steps": "Hold a 30 minute scoping call, align roles to milestones, identify data gaps, and draft an outline plus budget sketch.",
+    "confidence": "medium",
+    "confidence_score": 80.0,
+    "opportunity_url": "https://arpa-e-foa.energy.gov",
+    "suggested_title": "DE-FOA-0003467",
+    "synopsis": "This application would address SEEDING CRITICAL ADVANCES FOR LEADING ENERGY TECHNOLOGIES WITH UNTAPPED POTENTIAL (SCALEUP) READY by integrating complementary expertise across the team. The proposed collaboration is centered on apply, problems, tools, developing and is designed to produce a cohesive, milestone-driven set of deliverables.",
+    "rationale_detailed": "Faculty were selected for strong topical overlap with the opportunity and complementary, non-redundant strengths. Key contributions: Drew Jones: The ongoing theme of my work is the invention or adaptation of advanced chromatography and mass spectrometry technology to tackle challenging analytical problems with a translational potential. Methodologically, much of my science is designed around using high throughput LC-MS as the analytical readout of biochemical experiments.; David Fenyo: In my research I apply mathematical, statistical and computational methods to provide a detailed understanding of the dynamics of cellular processes through the integration and visualization of data from multiple technologies—including mass spectrometry, next generation sequencing, and microscopy to provide a deeper understanding of biological systems. My focus is the analysis of analytical measurements: the estimation of the information content of these measurements from different experimental designs, and the optimal use of such information to yield statistically meaningful answers to biological questions.; Alexander Serganov: We use a combination of biophysical methods, biochemical techniques, and structural approaches, including X-ray crystallography and cryo-electron microscopy, to elucidate molecular mechanisms of fundamental cellular processes associated with biosynthesis of RNA, metabolism of RNA, and RNA-mediated gene expression control. We study Fragile X syndrome and antibiotic resistance..",
+    "suggested_aims": [
+      "Aim 1: Define and quantify the core problem space in apply, problems, tools, developing using the team’s established models and datasets.",
+      "Aim 2: Develop and optimize an integrated approach that leverages each investigator’s strengths to address the opportunity requirements.",
+      "Aim 3: Validate outcomes in the most relevant system and deliver a clear translational or mechanistic endpoint aligned to the FOA."
+    ]
+  }
+]
